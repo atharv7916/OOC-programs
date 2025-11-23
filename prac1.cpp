@@ -25,7 +25,7 @@ void displayDetails() {
 int main() {
 cout<<"Name : Atharv Babaso Jamanik"<<endl;
 cout<<"Roll No.: 47"<<endl;
-cout<<"Diision : B"<<engl;
+cout<<"Diision : B"<<endl;
 
 
 Student studentObj;
@@ -36,3 +36,4 @@ cout << "\nStudent Details:\n";
 studentObj.displayDetails();
 return 0;
 }
+
